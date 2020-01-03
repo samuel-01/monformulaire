@@ -1,0 +1,68 @@
+h1
+{
+    font-face: cursive;
+    color:black; 
+    font-size: 35px;
+        
+        
+}
+body
+{
+    background-image: url(study-1968077_1920.jpg);
+    background-size: cover;
+}
+input
+{
+    border-bottom: 0px,0px,0px,5px;
+    border-radius: 5px 5px 5px 5px;
+    font-family: ;
+    margin-left: 15px;
+    font-size: 20px;
+    margin: 15px;
+     
+
+}
+fieldset
+{
+    color: white;
+    font-family: fantasy;
+    background-color: black;
+    opacity: 0.75;
+    border-radius: 15px;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 60px;
+    text-decoration: underline;
+
+}
+.valider:hover
+{
+ color: aquamarine;   
+    
+}
+.bienvenue
+{
+    font-family: fantasy;
+    color:deepskyblue;
+    font-size: 51px;
+text-decoration: underline;
+}
+p
+{
+    font-size: 25px;
+    color: skyblue;
+    font-size: 25px;
+}
+legend
+{
+    font-size: 35px;
+    text-decoration: underline;
+}
+a:hover
+{
+    color: crimson;
+}
+#nom
+{
+    border-bottom: 5px;
+}
